@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/head_pic.png</file>
+        <file>Resource/answer.png</file>
+        <file>Resource/close.png</file>
+        <file>Resource/diss_clicked.png</file>
+        <file>Resource/diss_unclicked.png</file>
+        <file>Resource/praise_clicked.png</file>
+        <file>Resource/praise_unclick.png</file>
+        <file>Resource/lable_yinghao.png</file>
+        <file>Resource/left.png</file>
+        <file>Resource/right.png</file>
+        <file>Resource/head_pic1.png</file>
+        <file>Resource/head_pic2.png</file>
+        <file>Resource/head_pic3.png</file>
+        <file>Resource/head_pic5.png</file>
+        <file>Resource/head_pic6.png</file>
+        <file>Resource/head_pic7.png</file>
+        <file>Resource/head_pic8.png</file>
+        <file>Resource/head_pic4.png</file>
+        <file>Resource/answerpic.png</file>
+        <file>Resource/question.png</file>
+        <file>Resource/fans.png</file>
+        <file>Resource/dianzan.png</file>
+    </qresource>
+</RCC>
